@@ -6,10 +6,36 @@
     <description>Recent content on AflixClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.aflix.club/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo配置baseURL与图片路径不正确</title>
+      <link>https://www.aflix.club/2019/09/06/cannot-link-to-static-files-with-hugo.html</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aflix.club/2019/09/06/cannot-link-to-static-files-with-hugo.html</guid>
+      <description>&lt;p&gt;Hugo建站中遇到baseURL配置不正确，image路径引用不正确导致图片不能正确显示。&lt;/p&gt;
+
+&lt;p&gt;比如配置的baseURL是 &lt;a href=&#34;https://my-username.github.io/blog/&#34;&gt;https://my-username.github.io/blog/&lt;/a&gt; ，但是生成的内容中图片地址是这样的： &lt;a href=&#34;http://localhost:1313/blog/posts/bar/img/hireme.png&#34;&gt;http://localhost:1313/blog/posts/bar/img/hireme.png&lt;/a&gt; ，包含了内容的完整路径，导致图片显示不了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GitHub多帐号SSH Key配置</title>
+      <link>https://www.aflix.club/2019/09/06/git-config-multi-github-account.html</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aflix.club/2019/09/06/git-config-multi-github-account.html</guid>
+      <description>&lt;p&gt;日常开发中，可能会遇到有多个github账号的情况。该如何配置ssh key，来满足不同账号下project的拉取提交操作呢？&lt;/p&gt;
+
+&lt;p&gt;下面介绍通过SSH方式来连接远程仓库，配置多个github账号，以此满足多账号用户需求，比如同时支持个人账号以及公司账号。&lt;/p&gt;
+
+&lt;h2 id=&#34;1-生成ssh-key&#34;&gt;1.生成ssh key&lt;/h2&gt;
+
+&lt;p&gt;安装好git之后，打开git bash，先生成ssh key，要配置两个github账号的话生成两个。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>盘点 | 2018年Etsy上最受欢迎的11类产品有哪些？</title>

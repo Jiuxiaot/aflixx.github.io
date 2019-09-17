@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on AflixClub</title>
+    <link>https://www.aflix.club/tags/git/</link>
+    <description>Recent content in Git on AflixClub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.aflix.club/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GitHub多帐号SSH Key配置</title>
+      <link>https://www.aflix.club/2019/09/06/git-config-multi-github-account.html</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aflix.club/2019/09/06/git-config-multi-github-account.html</guid>
+      <description>&lt;p&gt;日常开发中，可能会遇到有多个github账号的情况。该如何配置ssh key，来满足不同账号下project的拉取提交操作呢？&lt;/p&gt;
+
+&lt;p&gt;下面介绍通过SSH方式来连接远程仓库，配置多个github账号，以此满足多账号用户需求，比如同时支持个人账号以及公司账号。&lt;/p&gt;
+
+&lt;h2 id=&#34;1-生成ssh-key&#34;&gt;1.生成ssh key&lt;/h2&gt;
+
+&lt;p&gt;安装好git之后，打开git bash，先生成ssh key，要配置两个github账号的话生成两个。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

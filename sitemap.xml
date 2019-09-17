@@ -4,26 +4,71 @@
   
   <url>
     <loc>https://www.aflix.club/</loc>
-    <lastmod>2019-09-05T22:00:00+08:00</lastmod>
+    <lastmod>2019-09-06T22:01:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.aflix.club/categories/</loc>
-    <lastmod>2019-09-05T22:00:00+08:00</lastmod>
+    <lastmod>2019-09-06T22:01:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.aflix.club/tags/etsy/</loc>
-    <lastmod>2019-09-05T22:00:00+08:00</lastmod>
+    <loc>https://www.aflix.club/tags/hugo/</loc>
+    <lastmod>2019-09-06T22:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.aflix.club/2019/09/06/cannot-link-to-static-files-with-hugo.html</loc>
+    <lastmod>2019-09-06T22:01:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.aflix.club/post/</loc>
-    <lastmod>2019-09-05T22:00:00+08:00</lastmod>
+    <lastmod>2019-09-06T22:01:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.aflix.club/tags/</loc>
+    <lastmod>2019-09-06T22:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.aflix.club/tags/%E5%BB%BA%E7%AB%99/</loc>
+    <lastmod>2019-09-06T22:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.aflix.club/categories/%E5%BB%BA%E7%AB%99%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2019-09-06T22:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.aflix.club/tags/git/</loc>
+    <lastmod>2019-09-06T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.aflix.club/tags/github/</loc>
+    <lastmod>2019-09-06T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.aflix.club/2019/09/06/git-config-multi-github-account.html</loc>
+    <lastmod>2019-09-06T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.aflix.club/tags/ssh/</loc>
+    <lastmod>2019-09-06T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.aflix.club/categories/%E9%80%9A%E7%94%A8%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2019-09-06T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.aflix.club/tags/etsy/</loc>
     <lastmod>2019-09-05T22:00:00+08:00</lastmod>
   </url>
   

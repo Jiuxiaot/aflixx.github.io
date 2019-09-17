@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on AflixClub</title>
+    <link>https://www.aflix.club/tags/hugo/</link>
+    <description>Recent content in Hugo on AflixClub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.aflix.club/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo配置baseURL与图片路径不正确</title>
+      <link>https://www.aflix.club/2019/09/06/cannot-link-to-static-files-with-hugo.html</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aflix.club/2019/09/06/cannot-link-to-static-files-with-hugo.html</guid>
+      <description>&lt;p&gt;Hugo建站中遇到baseURL配置不正确，image路径引用不正确导致图片不能正确显示。&lt;/p&gt;
+
+&lt;p&gt;比如配置的baseURL是 &lt;a href=&#34;https://my-username.github.io/blog/&#34;&gt;https://my-username.github.io/blog/&lt;/a&gt; ，但是生成的内容中图片地址是这样的： &lt;a href=&#34;http://localhost:1313/blog/posts/bar/img/hireme.png&#34;&gt;http://localhost:1313/blog/posts/bar/img/hireme.png&lt;/a&gt; ，包含了内容的完整路径，导致图片显示不了。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
