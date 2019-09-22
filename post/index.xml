@@ -6,10 +6,21 @@
     <description>Recent content in Posts on AflixClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.aflix.club/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo建站指南1-使用Hugo构建个人博客</title>
+      <link>https://www.aflix.club/2019/09/10/build-website-with-hugo-guide-1.html</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aflix.club/2019/09/10/build-website-with-hugo-guide-1.html</guid>
+      <description>&lt;p&gt;本篇文章将指导你如何使用Hugo构建静态网站用于个人博客或者项目展示。&lt;/p&gt;
+
+&lt;p&gt;手把手教你如何从0开始构建一个静态网站，这不需要有太多的编程和开发经验和时间投入，也基本不需要多少成本（除了个性化域名），使用GitHub和Hugo模板即可快速构建和上线一个网站。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hugo配置baseURL与图片路径不正确</title>
